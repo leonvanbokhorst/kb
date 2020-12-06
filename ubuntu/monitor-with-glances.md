@@ -11,4 +11,4 @@ Then start the tool:
 glances
 ```
 
-![[glances.png]]
+![glances](../.attachments/glances.png)
