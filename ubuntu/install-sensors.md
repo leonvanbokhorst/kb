@@ -19,7 +19,7 @@ sudo reboot now
 
 Run the command `sensors` and it should display something like this:
 
-```bash
+```terminal
 sensors
 
 acpitz-acpi-0
